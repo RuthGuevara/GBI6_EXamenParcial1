@@ -1,5 +1,5 @@
 # GBI6_ExamenParcial1
-##DATOS PERSONALES
+## DATOS PERSONALES
 - Ruth Guevara
 - 21 años
 - 1850690171
