@@ -14,4 +14,4 @@
 - Jupyter
 - Git Bash
 ## Explicacion de datos utilizados
--h
+- Todo esta en Jupyter
