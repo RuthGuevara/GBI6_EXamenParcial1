@@ -14,4 +14,4 @@
 - Jupyter
 - Git Bash
 ## Explicacion de datos utilizados
-- Todo esta en Jupyter
+- La data utilizada fue obtenida del texto guía y de la Carpeta CSB/Unix
